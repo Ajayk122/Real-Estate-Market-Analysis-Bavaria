@@ -35,14 +35,19 @@ The closer to Munich, the more you pay. Properties within 10km of Munich Marienp
 <img width="728" height="613" alt="image" src="https://github.com/user-attachments/assets/bf03a03c-5676-4ea7-accb-ea781d0bf635" />
 
 ### 📈 Regression Analysis — What Actually Drives Rent?
-An OLS regression model (208,000+ listings, HC3 robust standard errors) was built to quantify which property features drive rental prices in Bavaria.
-      **Model fit: R² = 0.43** — meaning property size, location, and amenities together explain 43% of all rental price variation across Bavaria.
-      **Key findings:**
-          - **Apartment size** is by far the strongest driver - a 1% increase in area leads to a 0.86% increase in rent (log-log relationship)
-         - **Having a lift** adds ~26% premium to cold rent
-         - **Balcony** adds ~16% rental premium
-         - **Furnished apartments** command ~11% higher rent
-         - **Newly constructed** properties earn ~6% premium
+An OLS regression model (208,000+ listings, HC3 robust standard errors) was built to quantify which property 
+features drive rental prices in Bavaria.
+
+**Model fit: R² = 0.43** — property size, location, and amenities together explain 43% of all rental price 
+variation across Bavaria.
+
+**Key findings:**
+- **Apartment size** is the strongest driver — 1% increase in area = 0.86% increase in rent
+- **Lift access** adds ~26% premium to cold rent
+- **Balcony** adds ~16% rental premium
+- **Furnished apartments** command ~11% higher rent
+- **Newly constructed** properties earn ~6% premium
+
 > All results statistically significant at p < 0.001
 <img width="578" height="396" alt="image" src="https://github.com/user-attachments/assets/162d8380-e788-423e-b2e2-efcec9c3fe09" />
 
