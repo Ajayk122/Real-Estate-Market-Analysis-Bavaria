@@ -27,7 +27,7 @@ Key techniques used:
 
 ## Dataset Overview
 **235,929 listings** | **5 platforms** | **100+ Bavarian cities**
-Platforms: Immoscout · Immowelt · WG Gesucht · Immobilie1 · eBay
+**Platforms: Immoscout · Immowelt · WG Gesucht · Immobilie1 · eBay
 
 ## Results
 ### 📍 Geospatial Insight
@@ -51,9 +51,10 @@ features drive rental prices in Bavaria.
 > All results statistically significant at p < 0.001
 <img width="578" height="396" alt="image" src="https://github.com/user-attachments/assets/162d8380-e788-423e-b2e2-efcec9c3fe09" />
 
-### 📊 Platform Segmentation — Who Sells What?
+### 📊 Platform Segmentation - Who Sells What?
 Strategic clustering of 15+ property sub-types into 6 groups reveals clear platform specialisation across 
 Bavaria's rental market.
+
 **Key findings:**
 - **WG Gesucht** uniquely dominates Shared Living  (53%) — the go-to platform for flatshares
 - **Immoscout & Immowelt** are Standard Apartment platforms (59–67% of their inventory)
